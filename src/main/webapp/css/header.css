@@ -1,0 +1,54 @@
+body{
+  min-width:960px !important;
+}
+
+header {
+	background-color: #4169E1;
+}
+
+.nav_div{
+	padding: 0;
+}
+
+.nav_ul {
+	min-width: 0;
+}
+
+.nav_ul li {
+	min-width: 0;
+}
+
+.nav_container{
+	justify-content: start !important;
+	padding: 0;
+}
+.nav_container form{
+	margin-bottom: 0;
+}
+.search-box select[name='options']{
+	float: left;
+    height: 100%;
+    border: none;
+}
+
+.menu{
+	width:100%;
+	height:50px;
+	margin-top:5px;
+}
+ul{
+	list-style-type:none;
+}
+.nav_list li{
+	display:inline-block;
+	float:left;
+	width:370px;
+	padding-top:15px;
+	text-align: center;
+}
+.active{
+	color:red;
+}
+.li_font{
+	color:white;
+}

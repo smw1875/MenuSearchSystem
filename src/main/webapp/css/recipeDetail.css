@@ -1,0 +1,147 @@
+.container_frame {
+	width: 100%;
+	margin: 15px auto;
+	border: 1px solid #e6e7e8;
+	background: white;
+}
+
+.food_img {
+	width: 500px;
+	height: 500px;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.profile_img {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	border-radius: 50%;
+	position: relative;
+	top: -70px;
+	width: 150px;
+}
+
+div.mem_id {
+	font-size: 15px;
+	text-align: center;
+	margin: 0px 0px 0px 0px;
+}
+div.cook_make {
+	margin: 0px 0px 0px 0px;
+}
+
+div.recipe_nm_ko {
+	font-size: 30px;
+	text-align: center;
+}
+
+div.sumry {
+	font-size: 30px;
+	text-align: center;
+	color: #bcb7b7;
+}
+/* �丮 �ð� ,�� ��۷� �̵� */
+div.cooktime_comment {
+	font-size: 30px;
+	text-align: center;
+}
+
+div.recife_video {
+	margin: 10px 10px 0px 200px;
+}
+
+
+material {
+	font-size: 20px;
+	text-align: center;
+}
+material_container {
+	
+}
+
+div.main_material {
+	font-size: 20px;
+}
+
+ul.main_material {
+	display: inline-block;
+	margin: 0px 30px 0px 30px;
+	font-size: 20px;
+}
+
+ul.sub_material {
+	display: inline-block;
+	margin: 0px 30px 0px 30px;
+	font-size: 20px;
+}
+
+ul.seasoning {
+	display: inline-block;
+	margin: 0px 30px 0px 30px;
+	font-size: 20px;
+}
+
+div.cook_seq_container {
+	font-size: 30px;
+	margin: 0px 0px 00px 30px;
+}
+
+p.cook_seq {
+	
+	width: 45px;
+    height: 45px;
+    font-size: 30px;
+    display: inline-block;
+    margin: 0px -0px 0px 0px;
+    border: groove;
+    border-color: lime;
+    text-align: center;
+}
+
+p.main_material {
+	font-size: 30px;
+	border-bottom: 1px solid #e6e7e8;
+}
+
+p.sub_material {
+	font-size: 30px;
+	border-bottom: 1px solid #e6e7e8;
+}
+
+p.seasoning {
+	font-size: 30px;
+	border-bottom: 1px solid #e6e7e8;
+}
+
+div.sequence {
+	font-size: 40px;
+	margin: 0px 0px 10px 0px;
+	border-bottom: 1px solid #e6e7e8;
+}
+
+p.cook_explain {
+	width: 950px;
+	height: 30px;
+	font-size: 30px;
+	display: inline-block;
+	margin: 0px 0px 0px 0px;
+}
+
+img.cook_img {
+	width: 300px;
+	height: 300px;
+	display: inline-block;
+	margin: 0px 30px 0px 30px;
+}
+
+div.material_container {
+	text-align: center;
+}
+
+div.material {
+	font-size: 40px;
+	margin: 30px 0px 20px 30px;
+	border-bottom: 1px solid #e6e7e8;
+}
